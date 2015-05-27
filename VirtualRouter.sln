@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRouter", "VirtualRouter\VirtualRouter.csproj", "{058E6A7E-58A3-4BDB-B132-38E30592A565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{1E671F66-02D5-4D65-A2F7-F3C995BE7BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058E6A7E-58A3-4BDB-B132-38E30592A565}.Debug|x86.ActiveCfg = Debug|x86
+		{058E6A7E-58A3-4BDB-B132-38E30592A565}.Debug|x86.Build.0 = Debug|x86
+		{058E6A7E-58A3-4BDB-B132-38E30592A565}.Release|x86.ActiveCfg = Release|x86
+		{058E6A7E-58A3-4BDB-B132-38E30592A565}.Release|x86.Build.0 = Release|x86
+		{1E671F66-02D5-4D65-A2F7-F3C995BE7BDA}.Debug|x86.ActiveCfg = Debug|x86
+		{1E671F66-02D5-4D65-A2F7-F3C995BE7BDA}.Debug|x86.Build.0 = Debug|x86
+		{1E671F66-02D5-4D65-A2F7-F3C995BE7BDA}.Release|x86.ActiveCfg = Release|x86
+		{1E671F66-02D5-4D65-A2F7-F3C995BE7BDA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
